@@ -1,7 +1,7 @@
 {
-	"ip":"donator3.falixnodes.net",
-	"port": 25710,
-	"name": "afkbot1",
+	"ip":"rwkveri6.aternos.me",
+	"port": 32259, 
+	"name": "botsir ",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
